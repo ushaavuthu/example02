@@ -1,35 +1,4 @@
 
-Skip to content
-This repository
-
-    Pull requests
-    Issues
-    Gist
-
-    @ushaavuthu
-
-129
-378
-
-    475
-
-hyperledger/fabric
-Code
-Pull requests 1
-Projects 0
-Pulse
-Graphs
-fabric/examples/chaincode/go/chaincode_example02/chaincode_example02.go
-6ddbefe 7 days ago
-@jiangyaoguo jiangyaoguo [FAB-1055] remove query from chaincode example
-@xiejunan
-@muralisrini
-@jiangyaoguo
-@ghaskins
-@gabre
-@christo4ferris
-@brad-gorman
-198 lines (161 sloc) 5.22 KB
 /*
 Copyright IBM Corp. 2016 All Rights Reserved.
 Licensed under the Apache License, Version 2.0 (the "License");
